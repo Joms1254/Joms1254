@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Jomar Padilla! I’m a Developer. I enjoy building responsive front-end interfaces, secure back-end systems, and working with databases. My passion lies in creating user-friendly web applications, solving problems through clean code, and continuously expanding my knowledge of modern web technologies.
+Hi, I’m Jomar Padilla! I’m a Software Developer. I enjoy building responsive front-end interfaces, secure back-end systems, and working with databases. My passion lies in creating user-friendly web applications, solving problems through clean code, and continuously expanding my knowledge of modern web technologies.
 
 
 ## 🌐 Socials:
